@@ -8,6 +8,8 @@ This is a font I drew myself for a project on a microcontroller with a small scr
 
 This repository comes (will come) with a few scripts to convert the font to useful formats for your own project.
 
+The font WILL change as I use it in different things and find visual flaws. This is my first time making a font so things are very naïve.
+
 ## License
 
 There's no real license for this font, just mention my name when using it and don't use it for commercial projects except if I allowed it.
